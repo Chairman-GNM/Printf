@@ -6,7 +6,6 @@
  *
  * Return:( str-a)
  */
-int _puts(char *str)
 
 	char *a = str;/*declaration of variables*/
 
